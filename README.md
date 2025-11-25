@@ -82,6 +82,7 @@ AquaSense-Intelligent-Aquaculture-ML-Platform/
 - Python 3.8+
 - pip or conda
 - CUDA 11.0+ (optional, for GPU acceleration)
+- Dowload dataset : https://drive.google.com/drive/folders/1qo-nZNCs6fi4DTZlVQZgGefdupjKOdz2?usp=sharing
 
 ### Installation
 
